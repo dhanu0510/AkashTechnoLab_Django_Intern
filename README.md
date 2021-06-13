@@ -1,1 +1,1 @@
-## Akash_InternAkashTechnoLab Django Intern
+## AkashTechnoLab Django Intern
